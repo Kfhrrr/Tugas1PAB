@@ -152,25 +152,28 @@ Tombol ini digunakan untuk berpindah ke halaman checkout. Navigator.push() → b
 ### E. Go to Cart Page
 <img width="956" height="969" alt="image" src="https://github.com/user-attachments/assets/be8ffcfa-69df-400d-8f81-ab3847ae30ef" />
 
-### F. 
+### F. Tampilan Cart Page
 <img width="957" height="1020" alt="image" src="https://github.com/user-attachments/assets/42491687-f92d-4dfe-8b22-ac6b8cb1d759" />
 
-<img width="959" height="1017" alt="image" src="https://github.com/user-attachments/assets/84764bc4-5796-4a74-a338-453f9e0f2303" />
-
+### G. Tambah Jumlah Produk
 <img width="956" height="1015" alt="image" src="https://github.com/user-attachments/assets/707abb32-592d-46a4-b63f-f89623285d61" />
 
+### H. Menghapus Salah Satu Produk Dari Cart Page
 <img width="959" height="1016" alt="image" src="https://github.com/user-attachments/assets/a2494272-c8b9-4a54-8691-59d5649723e0" />
 
 <img width="957" height="1014" alt="image" src="https://github.com/user-attachments/assets/d92ebfab-482b-4dbe-a56a-7a38365323b2" />
 
+### I. Menghapus Seluruh Produk Yang Ada di Cart Page
 <img width="958" height="1019" alt="image" src="https://github.com/user-attachments/assets/3b206ae9-ee67-497c-9b63-5ef472ca951f" />
 
 <img width="955" height="1017" alt="image" src="https://github.com/user-attachments/assets/f877a0ce-c033-4c87-9264-9c266dab76c6" />
 
 <img width="959" height="1018" alt="image" src="https://github.com/user-attachments/assets/9d3cddce-aaba-4fe7-ba60-3e0e2153edea" />
 
+### J. Button Menuju Checkout Page
 <img width="956" height="1017" alt="image" src="https://github.com/user-attachments/assets/dd353f0c-a5e1-4f8c-9d1b-db7fac8b43ea" />
 
+### K. Tampilan Checkout Page
 <img width="958" height="805" alt="image" src="https://github.com/user-attachments/assets/05e6c28c-c753-4f74-b176-f90b2a23bed7" />
 
 <img width="956" height="692" alt="image" src="https://github.com/user-attachments/assets/58caadbe-aa9b-46d9-9851-0e2d26a658e4" />
